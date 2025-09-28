@@ -1,0 +1,10 @@
+# slstatus build files
+*.o
+slstatus
+
+# Patch backup files
+*.orig
+*.rej
+
+# Editor backups
+*~
